@@ -10,6 +10,8 @@ base-devel
 bat
 binutils
 btop
+bluez
+bluez-utils
 brave-bin
 celluloid
 cmake
