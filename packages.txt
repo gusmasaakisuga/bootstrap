@@ -58,7 +58,7 @@ morgen-bin
 neovim    
 nitrogen
 obsidian
-pacseek
+pacseek-bin
 pacman-contrib
 ripgrep
 solaar
@@ -119,4 +119,3 @@ wmname
 vim
 ranger
 yazi
-
