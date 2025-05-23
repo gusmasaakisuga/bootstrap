@@ -4,7 +4,6 @@ REPO=$HOME/repo
 mkdir $REPO
 cd $REPO
 
-cd $REPO
 
 cat > install-packages.sh << EOF
 #!/bin/bash
