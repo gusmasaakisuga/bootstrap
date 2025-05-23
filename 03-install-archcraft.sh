@@ -1,6 +1,6 @@
 #!/bin/sh
 
-REPO = $HOME/repo
+REPO=$HOME/repo
 mkdir $REPO
 cd $REPO
 

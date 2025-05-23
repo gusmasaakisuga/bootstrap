@@ -2,7 +2,7 @@
 
 # install yay
 sudo pacman -S git fakeroot binutils make gcc base-devel
-REPO = $HOME/repo
+REPO=$HOME/repo
 mkdir $REPO
 cd $REPO
 
