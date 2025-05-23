@@ -4,6 +4,7 @@ REPO=$HOME/repo
 mkdir $REPO
 cd $REPO
 
+cd $REPO
 
 cat > install-packages.sh << EOF
 #!/bin/bash
@@ -11,7 +12,7 @@ cat > install-packages.sh << EOF
 for file in *.zst;
 do
 	echo $file
-	sudo pacman -U --noconfirm $file
+	sudo pacman -U --noconfirm $$file
 done
 EOF
 
